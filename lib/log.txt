@@ -1,0 +1,83 @@
+commit f1f425d9e9ac59d53948bc95192a33133b886562
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sun Apr 10 15:28:23 2016 +0000
+
+    separate brand_report method to calc_brand_data and brand_report
+
+commit 0ffa0f2c000dce85d10ee08bea31a3fa7661e280
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sun Apr 10 15:19:14 2016 +0000
+
+    add brand_report method
+
+commit f4fc7121dd584dd02fc7b0e1c3f38da83ee11e55
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sun Apr 10 14:44:35 2016 +0000
+
+    finish products part
+
+commit ebf9f89f22dba91661bed64716fd4fb14535cad0
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sun Apr 10 11:55:21 2016 +0000
+
+    finish pruducts_report method
+
+commit 9f4b14528101ef3f8d64afd6d36113f869d75094
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sun Apr 10 10:19:02 2016 +0000
+
+    reconstruction calc_brand method
+
+commit 77ac0bc4a75d776e9e0d909039f5e270c56bb3e4
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sun Apr 10 10:00:52 2016 +0000
+
+    add write_report method
+
+commit 9f04cd9e01c3db8c0a393a06bdc35c38a7b114f3
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sat Apr 9 11:18:58 2016 +0000
+
+    change total_price to float
+
+commit e89c0f213fd7a79013de73a6fa61e74142f60e3c
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sat Apr 9 11:17:04 2016 +0000
+
+    change layout format
+
+commit e1a1e9c3b4265fcd458ab3bc452ff680cd0892df
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sat Apr 9 11:02:27 2016 +0000
+
+    finish calc_product
+
+commit 857836e988efa13c30aa21f4059a52849f2732e3
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Sat Apr 9 09:55:46 2016 +0000
+
+    re-write the code for 2nd review
+
+commit 54ec4d44052e3ead1c48888b000af2727e3b862d
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Fri Apr 8 20:54:44 2016 +0000
+
+    output to the report.txt
+
+commit a0b903e7d5efb734e10bbd0cf76a1290d89f346a
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Fri Apr 8 18:41:08 2016 +0000
+
+    finish product part
+
+commit a401e1708bd8d9e1421d404a6cb088f9ff6cb095
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Fri Apr 8 09:44:14 2016 +0000
+
+    add print ascii method
+
+commit 63455f1eeed7b4b548c4b59a82a576ac3c235486
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Fri Apr 8 09:08:45 2016 +0000
+
+    Initial commit
